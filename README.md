@@ -53,7 +53,7 @@ Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
 [![Deploy]
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cutekamina7930/Telegram_VC_Bot/tree/master)
+(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CuteKamina7930/Telegram_VC_Bot/tree/master)
 
 
 Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
